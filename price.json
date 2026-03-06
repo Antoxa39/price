@@ -1,0 +1,7 @@
+[
+ { "device":"iPhone 11", "service":"Замена экрана", "price":4500 },
+ { "device":"iPhone 11", "service":"Замена аккумулятора", "price":1800 },
+ { "device":"iPhone 12", "service":"Замена экрана", "price":5500 },
+ { "device":"Samsung S21", "service":"Замена экрана", "price":6000 },
+ { "device":"Ноутбук", "service":"Чистка системы охлаждения", "price":2000 }
+]
