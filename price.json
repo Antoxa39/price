@@ -1,7 +1,16 @@
 [
- { "device":"iPhone 11", "service":"Замена экрана", "price":4500 },
- { "device":"iPhone 11", "service":"Замена аккумулятора", "price":1800 },
- { "device":"iPhone 12", "service":"Замена экрана", "price":5500 },
- { "device":"Samsung S21", "service":"Замена экрана", "price":6000 },
- { "device":"Ноутбук", "service":"Чистка системы охлаждения", "price":2000 }
+ { "brand":"Apple", "model":"iPhone 11", "service":"Замена экрана", "price":4500 },
+ { "brand":"Apple", "model":"iPhone 11", "service":"Замена аккумулятора", "price":1800 },
+ { "brand":"Apple", "model":"iPhone 12", "service":"Замена экрана", "price":5500 },
+ { "brand":"Apple", "model":"iPhone 12", "service":"Замена аккумулятора", "price":2000 },
+ { "brand":"Apple", "model":"iPhone 13", "service":"Замена экрана", "price":6500 },
+ { "brand":"Samsung", "model":"Galaxy S21", "service":"Замена экрана", "price":6000 },
+ { "brand":"Samsung", "model":"Galaxy S21", "service":"Замена аккумулятора", "price":2000 },
+ { "brand":"Samsung", "model":"Galaxy S22", "service":"Замена экрана", "price":7000 },
+ { "brand":"Xiaomi", "model":"Redmi Note 10", "service":"Замена экрана", "price":3500 },
+ { "brand":"Xiaomi", "model":"Redmi Note 10", "service":"Замена аккумулятора", "price":1500 },
+ { "brand":"Laptop", "model":"Ноутбук", "service":"Чистка системы охлаждения", "price":2000 },
+ { "brand":"Laptop", "model":"Ноутбук", "service":"Замена термопасты", "price":1500 },
+ { "brand":"PC", "model":"Компьютер", "service":"Установка Windows", "price":1500 },
+ { "brand":"PC", "model":"Компьютер", "service":"Чистка системного блока", "price":1500 }
 ]
